@@ -1,12 +1,50 @@
-### Hello ! I'm Kailash 👋
+# Hello! I'm Kailash 👋
+<p>- A Computer Science student, who is passionate about building products and learning web, app based technologies.</p>
 
-- 📫 Mail me at srikarkailash9@gmail.com.
-- 🌐 View my portfolio at https://bit.ly/kailashmms
-- 
-- 😄 Pronouns: He/His...
+View My Portfolio
+<a href="https://bit.ly/kailashmms">
+  <img align="left" alt="Portfolio" width="30px" height="30px" src="https://img.icons8.com/cotton/64/000000/website.png"/>
+</a>
 
-<!-- <img align="center" alt="GIF" src="https://github.com/Kailash108/Kailash108/blob/main/gif.gif" width="468.75" height="300" /> -->
+Mail Me
+<a href="mailto:srikarkailash9@gmail.com">
+  <img align="left" alt="Kailash's Mail" width="30px" height="30px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
+</a>
 
-<img align="left" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kailash108&theme=vue-dark&&langs_count=5" />&emsp;
+LinkedIn
+<a href="https://in.linkedin.com/in/kailash-medavarapu-51b560107">
+  <img align="left" alt="Kailash's LI" width="30px" height="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-<img align="right" width="425em" align="center" src="https://github-readme-stats.vercel.app/api?username=Kailash108&show_icons=true&count_private=true&include_all_commits=true&theme=vue-dark" />
+![](https://visitor-badge.glitch.me/badge?page_id=kailash108)
+
+### 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+<br />
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+<br />
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<!-- <br />
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<br /> --->
+
+## &#x1f4c8; GitHub Stats
+
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kailash108&show_icons=true&locale=en&layout=compact&theme=radical" />
+</p>
+
+ 
+ <p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kailash108&theme=radical" />
+</p>
+ 
+<br />
