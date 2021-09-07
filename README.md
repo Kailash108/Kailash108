@@ -1,6 +1,8 @@
 # Hello! I'm Kailash 👋
 <p>- A Computer Science student, who is passionate about building products and learning web, app based technologies.</p>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kailash108&show_icons=true&locale=en&layout=compact&theme=radical" />
+
 View My Portfolio
 <a href="https://bit.ly/kailashmms">
   <img align="left" alt="Portfolio" width="30px" height="30px" src="https://img.icons8.com/cotton/64/000000/website.png"/>
@@ -38,13 +40,9 @@ LinkedIn
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kailash108&show_icons=true&locale=en&layout=compact&theme=radical" />
-</p>
-
- 
- <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kailash108&theme=radical" />
+<p>
+  <img style="height:50%;width:48%" src="https://github-readme-stats.vercel.app/api?username=Kailash108&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
+  <img align="right" style="height:50%;width:48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kailash108&theme=radical" />
 </p>
  
 <br />
