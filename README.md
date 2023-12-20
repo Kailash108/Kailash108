@@ -13,7 +13,7 @@ Mail Me
 
 LinkedIn
 <a href="https://in.linkedin.com/in/kailash-medavarapu-51b560107">
-  <img align="left" alt="Kailash's LI" width="30px" height="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Kailash's LI" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kailash108)
