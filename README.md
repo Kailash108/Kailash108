@@ -1,5 +1,5 @@
 # Hello! I'm Kailash 👋
-<p>- A Computer Science student, who is passionate about building products and learning web, app based technologies.</p>
+<p>- A Computer Science graduate working at EY, who is passionate about building products using web, app based technologies.</p>
 
 View My Portfolio
 <a href="https://bit.ly/kailashmms">
